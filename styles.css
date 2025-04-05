@@ -1,9 +1,11 @@
 table{
 	width:100%;
+	border-spacing:1px;
 }
 
 td{
 	height: 18px;
+	padding: 1px;
 }
 #t12{
 	text-align:center;
